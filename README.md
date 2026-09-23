@@ -1,2 +1,2 @@
 # portfolio-website
-My first WDE project from replit
+My first WDE project 
